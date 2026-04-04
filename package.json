@@ -1,0 +1,23 @@
+{
+  "name": "shan-server",
+  "version": "1.0.0",
+  "description": "A server by ShAn ",
+  "keywords": [
+    "alldl"
+  ],
+  "homepage": "https://github.com/Sh4nDev/ShAn-Server#readme",
+  "bugs": {
+    "url": "https://github.com/Sh4nDev/ShAn-Server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sh4nDev/ShAn-Server.git"
+  },
+  "license": "ISC",
+  "author": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
