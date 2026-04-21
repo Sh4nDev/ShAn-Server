@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/Sh4nDev/ShAn-Server.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
   "type": "commonjs",
   "main": "index.js",
