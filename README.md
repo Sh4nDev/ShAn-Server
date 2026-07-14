@@ -383,7 +383,7 @@ const { ShAnImgur } = require("shan-server");
 const author = "♡︎ 𝗦𝗵𝗔𝗻 ♡︎";
 
 const url = 'url' // past achievement url
-const res = ShAnImgur(url, author);
+const res = await ShAnImgur(url, author);
 console.log(res)
 ```
 ## Output Example (Imgur upload)
