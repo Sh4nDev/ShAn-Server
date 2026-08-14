@@ -13,7 +13,7 @@
 ```
 ## Last Update 
 ```print
-Baby Ai 
+Baby Ai and Baby Ai Teach 
 ```
 
 ## Example (all platform supported)
