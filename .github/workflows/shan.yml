@@ -5,12 +5,15 @@ on: push
 jobs:
   publish:
     runs-on: ubuntu-latest
+    environment: sh4n 
+    permissions:
+      id-token: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org
