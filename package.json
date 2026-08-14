@@ -1,7 +1,7 @@
 {
   "name": "shan-server",
-  "version": "1.0.2",
-  "description": "All-platform social media video downloader supporting YouTube, Instagram, TikTok, Facebook, Twitter, Threads, CapCut, Pinterest and more. made ♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+  "version": "1.0.3",
+  "description": "Chat with baby Ai and All-platform social media video downloader supporting YouTube, Instagram, TikTok, Facebook, Twitter, Threads, CapCut, Pinterest and more. made ♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
   "keywords": [
   "alldl",
   "instaDL",
@@ -19,6 +19,9 @@
   "threaDL",
   "capcutDL",
   "pinDL",
+  "bby",
+  "baby",
+  "baby-Ai",
   "all-platform",
   "video-downloader",
   "social-media-downloader",
