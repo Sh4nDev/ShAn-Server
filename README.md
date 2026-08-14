@@ -429,7 +429,7 @@ const ans = "My Boss ♡︎ 𝗦𝗵𝗔𝗻 ♡︎"; // Multiple teach availabl
 const uid = "100045644423035"; //facebook uid
 const font = "3"; // font style 
 
-const res = await ShAnBteach: (ask, ans, uid, font, author);
+const res = await ShAnBteach(ask, ans, uid, font, author);
 console.log(res);
 ```
 ## Output Example (Baby Ai Teach) 
