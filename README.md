@@ -435,12 +435,37 @@ console.log(res);
 ## Output Example (Baby Ai Teach) 
 ```
 {
-  "status": "Success",
-  "author": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
-  "devfb": "https://m.facebook.com/Sh4n.Dev1",
-  "devwp": "https://wa.me/+8801825829588",
-  "ShAn": "𝐌𝐲 𝐨𝐰𝐧𝐞𝐫 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎ 𝐛𝐛𝐲",
-  "react": "😊"
+    "status": "Success",
+    "author": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+    "devfb": "https://m.facebook.com/Sh4n.Dev1",
+    "devwp": "https://wa.me/+8801825829588",
+    "react": "🎉",
+    "ShAn": "✅ 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐭𝐚𝐮𝐠𝐡𝐭 𝐧𝐞𝐰 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧!\n📖 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧: 𝐖𝐡𝐨 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐲𝐨𝐮\n📝 𝐀𝐧𝐬𝐰𝐞𝐫𝐬: 𝐌𝐲 𝐨𝐰𝐧𝐞𝐫 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎\n🏆 𝐘𝐨𝐮𝐫 𝐓𝐨𝐭𝐚𝐥 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠𝐬: 𝟐𝟒𝟑𝟎",
+    "ask": "𝐖𝐡𝐨 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐲𝐨𝐮",
+    "ans": "𝐌𝐲 𝐨𝐰𝐧𝐞𝐫 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+    "totalTeachings": "𝐓𝐨𝐭𝐚𝐥 𝐓𝐞𝐚𝐜𝐡: 𝟐𝟒𝟑𝟎"
+}
+```
+```
+{
+    "status": "Partial Success",
+    "dev": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+    "devfb": "https://m.facebook.com/Sh4n.Dev1",
+    "devwp": "https://wa.me/+8801825829588",
+    "react": "📖",
+    "ShAn": "🔄 𝐀𝐝𝐝𝐞𝐝 𝐧𝐞𝐰 𝐚𝐧𝐬𝐰𝐞𝐫𝐬 𝐭𝐨 𝐞𝐱𝐢𝐬𝐭𝐢𝐧𝐠 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧!\n📖 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧: 𝐖𝐡𝐨 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐲𝐨𝐮\n➕ 𝐍𝐞𝐰 𝐀𝐧𝐬𝐰𝐞𝐫𝐬: 𝐌𝐲 𝐁𝐨𝐬𝐬 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎\n🏆 𝐘𝐨𝐮𝐫 𝐓𝐨𝐭𝐚𝐥 𝐓𝐞𝐚𝐜𝐡𝐢𝐧𝐠𝐬: 𝟐𝟒𝟑𝟏",
+    "ask": "𝐖𝐡𝐨 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐲𝐨𝐮",
+    "newAns": "𝐌𝐲 𝐁𝐨𝐬𝐬 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+    "totalTeachings": "𝐓𝐨𝐭𝐚𝐥 𝐓𝐞𝐚𝐜𝐡: 𝟐𝟒𝟑𝟏"
+}
+```
+```
+{
+    "status": "Already Exists",
+    "dev": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+    "devfb": "https://m.facebook.com/Sh4n.Dev1",
+    "devwp": "https://wa.me/+8801825829588",
+    "ShAn": "🎀 𝐀𝐧𝐬𝐰𝐞𝐫𝐬 𝐡𝐚𝐯𝐞 𝐚𝐥𝐫𝐞𝐚𝐝𝐲 𝐛𝐞𝐞𝐧 𝐭𝐚𝐮𝐠𝐡𝐭!"
 }
 ```
 
