@@ -5,9 +5,6 @@ on: push
 jobs:
   publish:
     runs-on: ubuntu-latest
-    environment: sh4n 
-    permissions:
-      id-token: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
