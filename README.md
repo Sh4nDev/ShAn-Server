@@ -13,7 +13,7 @@
 ```
 ## Last Update 
 ```print
-coming soon
+Baby Ai 
 ```
 
 ## Example (all platform supported)
@@ -394,6 +394,29 @@ console.log(res)
   "devfb": "https://m.facebook.com/Sh4n.Dev1",
   "devwp": "https://wa.me/+8801825829588",
   "ShAn": "", // Upload image url
+}
+```
+
+## Example (Baby Ai) 
+```js
+const { ShAnBaby } = require('shan-server');
+const author = "♡︎ 𝗦𝗵𝗔𝗻 ♡︎";
+const text = "Who created you";
+const uid = "100045644423035"; //facebook uid
+const font = "3"; // font style 
+
+const res = await ShAnBaby(text, uid, font, author);
+console.log(res);
+```
+## Output Example (Baby Ai) 
+```
+{
+  "status": "Success",
+  "author": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+  "devfb": "https://m.facebook.com/Sh4n.Dev1",
+  "devwp": "https://wa.me/+8801825829588",
+  "ShAn": "𝐌𝐲 𝐨𝐰𝐧𝐞𝐫 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎ 𝐛𝐛𝐲",
+  "react": "😊"
 }
 ```
 
