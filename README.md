@@ -420,6 +420,30 @@ console.log(res);
 }
 ```
 
+## Example (Baby Ai Teach) 
+```js
+const { ShAnBteach } = require('shan-server');
+const author = "♡︎ 𝗦𝗵𝗔𝗻 ♡︎";
+const ask = "Who created you";
+const ans = "My Boss ♡︎ 𝗦𝗵𝗔𝗻 ♡︎"; // Multiple teach available eg: const ans = " My boss ♡︎ 𝗦𝗵𝗔𝗻 ♡︎, My Owner ♡︎ 𝗦𝗵𝗔𝗻 ♡︎";
+const uid = "100045644423035"; //facebook uid
+const font = "3"; // font style 
+
+const res = await ShAnBteach: (ask, ans, uid, font, author);
+console.log(res);
+```
+## Output Example (Baby Ai Teach) 
+```
+{
+  "status": "Success",
+  "author": "♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
+  "devfb": "https://m.facebook.com/Sh4n.Dev1",
+  "devwp": "https://wa.me/+8801825829588",
+  "ShAn": "𝐌𝐲 𝐨𝐰𝐧𝐞𝐫 ♡︎ 𝗦𝗵𝗔𝗻 ♡︎ 𝐛𝐛𝐲",
+  "react": "😊"
+}
+```
+
   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801825829588)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Sh4n.Dev1)
