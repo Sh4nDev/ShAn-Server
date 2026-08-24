@@ -1,6 +1,6 @@
 {
   "name": "shan-server",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Interactive SHAN SERVER CLI with auto-author detection for CLI - Download videos from YouTube, TikTok, Instagram, Facebook, Twitter, and more. Features AI chatbots, album storage, captions, fonts, memes, and cloud uploads. Works on Termux, Windows, Linux, macOS, Chrome OS. By ♡︎ 𝗦𝗵𝗔𝗻 ♡︎",
   "os": [
     "win32",
