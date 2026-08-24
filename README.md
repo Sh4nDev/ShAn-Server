@@ -23,7 +23,7 @@ npm install -g shan-server
 ```
 ## Last Update 
 ```
-Works on Terminal, Shell, Termux, Windows, Linux, macOS, Chrome OS
+Fixed to Works on Terminal, Shell, Termux, Windows, Linux, macOS, Chrome OS
 ```
 
 # 🚀 SHAN SERVER
