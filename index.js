@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const axios = require('axios');
 const readline = require('readline');
 const os = require('os');
