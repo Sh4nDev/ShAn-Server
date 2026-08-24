@@ -4,17 +4,45 @@
   
 </h3>
 
+[![GitHub](https://img.shields.io/badge/GitHub-Sh4nDev%2Fshan--server-blue?logo=github)](https://github.com/Sh4nDev/shan-fca)
+[![Language](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)](https://www.javascript.com/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![npm version](https://img.shields.io/npm/v/shan-server?logo=npm)](https://www.npmjs.com/package/shan-server)
+[![Node Version](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen?logo=node.js)](https://nodejs.org/)
 
 
-
-## Instalation :
+## 📦 Installation
 ```bash
 > npm i shan-server
 ```
-## Last Update 
-```print
-Baby Ai and Baby Ai Teach 
+
+### Global Install (Recommended)
+```bash
+npm install -g shan-server
 ```
+## Last Update 
+```
+Works on Terminal, Shell, Termux, Windows, Linux, macOS, Chrome OS
+```
+
+# 🚀 SHAN SERVER
+
+
+
+**Interactive CLI for SHAN SERVER API** - Download videos, use AI chatbots, manage albums, and more. Works on **Terminal, Shell, Termux, Windows, Linux, macOS, Chrome OS**.
+
+## ✨ Features
+
+- 📥 **Video Downloaders** - YouTube, TikTok, Instagram, Facebook, Twitter, Threads, Pinterest, CapCut, Likee
+- 🔍 **Search** - YouTube & TikTok search
+- 🤖 **AI Chatbots** - Baby and Honey AI assistants
+- 💾 **Album Storage** - Store and manage video collections
+- 🎨 **Font Styling** - Apply various text fonts
+- 🖼️ **Meme Generator** - Random memes
+- 📝 **Caption Manager** - Multi-language captions
+- ☁️ **Cloud Upload** - Imgur & ImgBB
+
 
 ## Example (all platform supported)
 ```bash
