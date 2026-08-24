@@ -1,1 +1,719 @@
-function _0x41ad(_0xa2eeb3,_0x1c7135){_0xa2eeb3=_0xa2eeb3-(0xc25+0x15*0x3b+0xf0b*-0x1);const _0x444c03=_0x1b2f();let _0x28a74b=_0x444c03[_0xa2eeb3];return _0x28a74b;}const _0x2bbefd=_0x41ad;(function(_0x10d39b,_0xc695c5){const _0x1a70c6=_0x41ad,_0x5498e2=_0x10d39b();while(!![]){try{const _0x5dd451=-parseInt(_0x1a70c6(0x255))/(-0x23d*-0xd+-0x5*0x67f+0x3*0x121)*(parseInt(_0x1a70c6(0x245))/(-0x3*0x7cf+-0x1c9+0x327*0x8))+-parseInt(_0x1a70c6(0x227))/(-0x4bd*0x5+0xd55+0xa5f)*(-parseInt(_0x1a70c6(0x219))/(-0x22*-0x9a+-0x3*-0x9c6+-0x31c2))+-parseInt(_0x1a70c6(0x1f7))/(-0x1ed1+-0x2220+-0x1*-0x40f6)*(-parseInt(_0x1a70c6(0x229))/(-0x1d37+-0xf00+-0xf*-0x2f3))+parseInt(_0x1a70c6(0x25d))/(0x737+0xd5f+-0x148f)+parseInt(_0x1a70c6(0x22d))/(-0x2ed*-0xc+0x1d69+-0x1*0x407d)*(-parseInt(_0x1a70c6(0x240))/(-0x19d3+-0x218c+0x3b68))+parseInt(_0x1a70c6(0x22a))/(-0x314*-0x8+-0x259d*-0x1+-0x1*0x3e33)*(-parseInt(_0x1a70c6(0x258))/(-0x3e6+-0x240f+0x1400*0x2))+-parseInt(_0x1a70c6(0x225))/(0x1c0d*0x1+-0x11b6+-0x1*0xa4b);if(_0x5dd451===_0xc695c5)break;else _0x5498e2['push'](_0x5498e2['shift']());}catch(_0x251f87){_0x5498e2['push'](_0x5498e2['shift']());}}}(_0x1b2f,0x13e348+0x936fa*0x2+0x19997e*-0x1));const axios=require(_0x2bbefd(0x251)),Sh4n=_0x2bbefd(0x22b)+_0x2bbefd(0x21f)+_0x2bbefd(0x1f2)+_0x2bbefd(0x24c);module[_0x2bbefd(0x223)]={'ShAnAlldl':(_0x5f1569,_0xa0410e)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x202)+_0x2bbefd(0x25a))+encodeURIComponent(_0x5f1569)+_0x2bbefd(0x21a)+encodeURIComponent(_0xa0410e))[_0x2bbefd(0x256)](_0x47429c=>_0x47429c[_0x2bbefd(0x230)]),'ShAnAlldl2':(_0x1c4f16,_0x2218ac)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x202)+_0x2bbefd(0x222))+encodeURIComponent(_0x1c4f16)+_0x2bbefd(0x21a)+encodeURIComponent(_0x2218ac))[_0x2bbefd(0x256)](_0x458cf8=>_0x458cf8[_0x2bbefd(0x230)]),'ShAnFbdl':(_0x49a38f,_0x4336a1)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x1f8)+_0x2bbefd(0x236))+encodeURIComponent(_0x49a38f)+_0x2bbefd(0x21a)+encodeURIComponent(_0x4336a1))[_0x2bbefd(0x256)](_0x354dbd=>_0x354dbd[_0x2bbefd(0x230)]),'ShAnYtdl':(_0x2540a1,_0x26cd0e)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x208)+_0x2bbefd(0x236))+encodeURIComponent(_0x2540a1)+_0x2bbefd(0x21a)+encodeURIComponent(_0x26cd0e))[_0x2bbefd(0x256)](_0x2abb96=>_0x2abb96[_0x2bbefd(0x230)]),'ShAnYtmp3':(_0xa4b52c,_0x9ed162)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x25c)+_0x2bbefd(0x25a))+encodeURIComponent(_0xa4b52c)+_0x2bbefd(0x21a)+encodeURIComponent(_0x9ed162))[_0x2bbefd(0x256)](_0x36cd10=>_0x36cd10[_0x2bbefd(0x230)]),'ShAnThreadl':(_0x387599,_0x3fa9c8)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x234)+_0x2bbefd(0x20d))+encodeURIComponent(_0x387599)+_0x2bbefd(0x21a)+encodeURIComponent(_0x3fa9c8))[_0x2bbefd(0x256)](_0x51580c=>_0x51580c[_0x2bbefd(0x230)]),'ShAnTwitdl':(_0xd5d097,_0x1a6037)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x23b)+_0x2bbefd(0x252))+encodeURIComponent(_0xd5d097)+_0x2bbefd(0x21a)+encodeURIComponent(_0x1a6037))[_0x2bbefd(0x256)](_0x2ba555=>_0x2ba555[_0x2bbefd(0x230)]),'ShAnTikdl':(_0x3ed0d4,_0x17f33a)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x1fc)+_0x2bbefd(0x25a))+encodeURIComponent(_0x3ed0d4)+_0x2bbefd(0x21a)+encodeURIComponent(_0x17f33a))[_0x2bbefd(0x256)](_0x3c3738=>_0x3c3738[_0x2bbefd(0x230)]),'ShAnInstadl':(_0x20c82c,_0x1ba10e)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x21b)+_0x2bbefd(0x20d))+encodeURIComponent(_0x20c82c)+_0x2bbefd(0x21a)+encodeURIComponent(_0x1ba10e))[_0x2bbefd(0x256)](_0x2e480b=>_0x2e480b[_0x2bbefd(0x230)]),'ShAnInstadl2':(_0x1e51e3,_0xa2f99b)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x21b)+_0x2bbefd(0x24a))+encodeURIComponent(_0x1e51e3)+_0x2bbefd(0x21a)+encodeURIComponent(_0xa2f99b))[_0x2bbefd(0x256)](_0x3f3971=>_0x3f3971[_0x2bbefd(0x230)]),'ShAnInstadl3':(_0x2598c9,_0x1872a4)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x21b)+_0x2bbefd(0x211))+encodeURIComponent(_0x2598c9)+_0x2bbefd(0x21a)+encodeURIComponent(_0x1872a4))[_0x2bbefd(0x256)](_0x3c8a0e=>_0x3c8a0e[_0x2bbefd(0x230)]),'ShAnPindl':(_0x4fe833,_0x1faa6c)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x21c)+_0x2bbefd(0x25a))+encodeURIComponent(_0x4fe833)+_0x2bbefd(0x21a)+encodeURIComponent(_0x1faa6c))[_0x2bbefd(0x256)](_0x1006d0=>_0x1006d0[_0x2bbefd(0x230)]),'ShAnCapcutdl':(_0x55a8ce,_0x56a8db)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x232)+_0x2bbefd(0x1ff))+encodeURIComponent(_0x55a8ce)+_0x2bbefd(0x21a)+encodeURIComponent(_0x56a8db))[_0x2bbefd(0x256)](_0x350dbb=>_0x350dbb[_0x2bbefd(0x230)]),'ShAnLikeedl':(_0x18193f,_0x5ecaec)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x228)+_0x2bbefd(0x20d))+encodeURIComponent(_0x18193f)+_0x2bbefd(0x21a)+encodeURIComponent(_0x5ecaec))[_0x2bbefd(0x256)](_0x3c1619=>_0x3c1619[_0x2bbefd(0x230)]),'ShAnytSearch':(_0x3b36bf,_0x736fd6)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x1f9)+_0x2bbefd(0x206))+encodeURIComponent(_0x3b36bf)+_0x2bbefd(0x21a)+encodeURIComponent(_0x736fd6))[_0x2bbefd(0x256)](_0x5a7442=>_0x5a7442[_0x2bbefd(0x230)]),'ShAnBaby':(_0xd8acbb,_0x52985a,_0x20b626,_0x12c04c)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x21d)+_0x2bbefd(0x254))+encodeURIComponent(_0xd8acbb)+_0x2bbefd(0x220)+_0x52985a+_0x2bbefd(0x235)+_0x20b626+_0x2bbefd(0x21a)+encodeURIComponent(_0x12c04c))[_0x2bbefd(0x256)](_0x204f6b=>_0x204f6b[_0x2bbefd(0x230)]),'ShAnBteach':(_0x57d5f7,_0x5864dc,_0x5a12e6,_0x146f05,_0x551925)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x22f)+_0x2bbefd(0x215))+encodeURIComponent(_0x57d5f7)+_0x2bbefd(0x242)+encodeURIComponent(_0x5864dc)+_0x2bbefd(0x220)+_0x5a12e6+_0x2bbefd(0x235)+_0x146f05+_0x2bbefd(0x21a)+encodeURIComponent(_0x551925))[_0x2bbefd(0x256)](_0x10a53b=>_0x10a53b[_0x2bbefd(0x230)]),'ShAnBrans':_0xa56bf4=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x1f1)+_0x2bbefd(0x25e))+encodeURIComponent(_0xa56bf4))[_0x2bbefd(0x256)](_0x46b471=>_0x46b471[_0x2bbefd(0x230)]),'ShAnBmsg':(_0x1d6c1f,_0xc8d1c6,_0x2f127c,_0x5cb865)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x249)+_0x2bbefd(0x213))+encodeURIComponent(_0x1d6c1f)+_0x2bbefd(0x220)+_0xc8d1c6+_0x2bbefd(0x235)+_0x2f127c+_0x2bbefd(0x21a)+encodeURIComponent(_0x5cb865))[_0x2bbefd(0x256)](_0x4ecc7f=>_0x4ecc7f[_0x2bbefd(0x230)]),'ShAnBlist':(_0x4bc2ca,_0x16eaca)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x241)+_0x2bbefd(0x20a))+_0x4bc2ca+_0x2bbefd(0x21a)+encodeURIComponent(_0x16eaca))[_0x2bbefd(0x256)](_0x352188=>_0x352188[_0x2bbefd(0x230)]),'ShAnBedit':(_0x2b40c7,_0x519ed2,_0x33a5ae,_0x17f825,_0x59d2d5,_0xe3ce0e)=>{const _0x2dd990=_0x2bbefd,_0x2f4c4e={'etnbe':function(_0x3ee833,_0x23a475){return _0x3ee833(_0x23a475);}};let _0x448a77=Sh4n+(_0x2dd990(0x210)+_0x2dd990(0x207))+_0x2f4c4e[_0x2dd990(0x200)](encodeURIComponent,_0x2b40c7)+_0x2dd990(0x233)+_0x2f4c4e[_0x2dd990(0x200)](encodeURIComponent,_0x519ed2)+_0x2dd990(0x220)+_0x33a5ae+_0x2dd990(0x235)+_0x17f825+_0x2dd990(0x21a)+_0x2f4c4e[_0x2dd990(0x200)](encodeURIComponent,_0x59d2d5);if(_0xe3ce0e)_0x448a77+=_0x2dd990(0x24f)+_0xe3ce0e;return axios[_0x2dd990(0x253)](_0x448a77)[_0x2dd990(0x256)](_0x34f7be=>_0x34f7be[_0x2dd990(0x230)]);},'ShAnBdelete':(_0x3abf45,_0x27d55f,_0xc01c83,_0x4248e3,_0x5ec80e)=>{const _0x352faf=_0x2bbefd,_0x1e9ede={'gIGUA':function(_0x43e028,_0x5d4d10){return _0x43e028(_0x5d4d10);},'uYtiP':function(_0x3409e7,_0x32a529){return _0x3409e7(_0x32a529);}};let _0x85d082=Sh4n+(_0x352faf(0x25b)+_0x352faf(0x247))+_0x1e9ede[_0x352faf(0x1fa)](encodeURIComponent,_0x3abf45)+_0x352faf(0x220)+_0x27d55f+_0x352faf(0x235)+_0xc01c83+_0x352faf(0x21a)+_0x1e9ede[_0x352faf(0x24b)](encodeURIComponent,_0x4248e3);if(_0x5ec80e)_0x85d082+=_0x352faf(0x24f)+_0x5ec80e;return axios[_0x352faf(0x22e)](_0x85d082)[_0x352faf(0x256)](_0x29a69a=>_0x29a69a[_0x352faf(0x230)]);},'ShAnHoney':(_0x301471,_0x559c1f,_0x585d85,_0x1fb90b)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x23f)+_0x2bbefd(0x24e))+encodeURIComponent(_0x301471)+_0x2bbefd(0x220)+_0x559c1f+_0x2bbefd(0x235)+_0x585d85+_0x2bbefd(0x21a)+encodeURIComponent(_0x1fb90b))[_0x2bbefd(0x256)](_0x222f59=>_0x222f59[_0x2bbefd(0x230)]),'ShAnHteach':(_0x2640b7,_0x2833dc,_0x4e36cd,_0x772041,_0x38966c)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x243)+_0x2bbefd(0x215))+encodeURIComponent(_0x2640b7)+_0x2bbefd(0x242)+encodeURIComponent(_0x2833dc)+_0x2bbefd(0x220)+_0x4e36cd+_0x2bbefd(0x235)+_0x772041+_0x2bbefd(0x21a)+encodeURIComponent(_0x38966c))[_0x2bbefd(0x256)](_0x449cf5=>_0x449cf5[_0x2bbefd(0x230)]),'ShAnHmsg':(_0x5e65de,_0x4037f8,_0x57d708,_0x40ab6d)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x238)+_0x2bbefd(0x213))+encodeURIComponent(_0x5e65de)+_0x2bbefd(0x220)+_0x4037f8+_0x2bbefd(0x235)+_0x57d708+_0x2bbefd(0x21a)+encodeURIComponent(_0x40ab6d))[_0x2bbefd(0x256)](_0x5d96e6=>_0x5d96e6[_0x2bbefd(0x230)]),'ShAnHlist':(_0x2df41d,_0x39c83b)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x22c)+_0x2bbefd(0x20a))+_0x2df41d+_0x2bbefd(0x21a)+encodeURIComponent(_0x39c83b))[_0x2bbefd(0x256)](_0x2d0d8a=>_0x2d0d8a[_0x2bbefd(0x230)]),'ShAnHedit':(_0x456e59,_0x11044d,_0x4fcafc,_0x10fa21,_0x59bf94,_0x478b56)=>{const _0xe4a2d=_0x2bbefd,_0x473403={'XGpAk':function(_0x30bf84,_0x1fa995){return _0x30bf84(_0x1fa995);},'jihPL':function(_0x34c867,_0x4253d1){return _0x34c867(_0x4253d1);},'pvPlF':function(_0x181a69,_0x17695a){return _0x181a69(_0x17695a);}};let _0x248790=Sh4n+(_0xe4a2d(0x23d)+_0xe4a2d(0x207))+_0x473403[_0xe4a2d(0x20e)](encodeURIComponent,_0x456e59)+_0xe4a2d(0x233)+_0x473403[_0xe4a2d(0x248)](encodeURIComponent,_0x11044d)+_0xe4a2d(0x220)+_0x4fcafc+_0xe4a2d(0x235)+_0x10fa21+_0xe4a2d(0x21a)+_0x473403[_0xe4a2d(0x218)](encodeURIComponent,_0x59bf94);if(_0x478b56)_0x248790+=_0xe4a2d(0x24f)+_0x478b56;return axios[_0xe4a2d(0x253)](_0x248790)[_0xe4a2d(0x256)](_0x186d3b=>_0x186d3b[_0xe4a2d(0x230)]);},'ShAnHdelete':(_0x143d1a,_0xa8c50,_0x45b10d,_0x4735d3,_0x1885fe)=>{const _0x688f5f=_0x2bbefd,_0x57ce64={'HcTZr':function(_0x1d53b5,_0x21e5ae){return _0x1d53b5(_0x21e5ae);}};let _0x4a8ad3=Sh4n+(_0x688f5f(0x250)+_0x688f5f(0x247))+_0x57ce64[_0x688f5f(0x20b)](encodeURIComponent,_0x143d1a)+_0x688f5f(0x220)+_0xa8c50+_0x688f5f(0x235)+_0x45b10d+_0x688f5f(0x21a)+_0x57ce64[_0x688f5f(0x20b)](encodeURIComponent,_0x4735d3);if(_0x1885fe)_0x4a8ad3+=_0x688f5f(0x24f)+_0x1885fe;return axios[_0x688f5f(0x22e)](_0x4a8ad3)[_0x688f5f(0x256)](_0x219563=>_0x219563[_0x688f5f(0x230)]);},'ShAnalbumVideos':(_0x25b050,_0x49e221,_0x4765f3,_0x1c7db3)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x20c)+_0x2bbefd(0x257)+_0x2bbefd(0x1f6))+_0x25b050+_0x2bbefd(0x244)+_0x49e221+_0x2bbefd(0x21a)+encodeURIComponent(_0x4765f3)+_0x2bbefd(0x1f3)+encodeURIComponent(_0x1c7db3))[_0x2bbefd(0x256)](_0x643354=>_0x643354[_0x2bbefd(0x230)]),'ShAnalbumAdd':(_0x43ae3c,_0x4ee5d7,_0x1833bc,_0x4c55a4)=>axios[_0x2bbefd(0x221)](Sh4n+(_0x2bbefd(0x20c)+_0x2bbefd(0x226)+_0x2bbefd(0x231))+_0x43ae3c+_0x2bbefd(0x23e)+encodeURIComponent(_0x4ee5d7)+_0x2bbefd(0x244)+_0x1833bc+_0x2bbefd(0x21a)+encodeURIComponent(_0x4c55a4))[_0x2bbefd(0x256)](_0x44def0=>_0x44def0[_0x2bbefd(0x230)]),'ShAnalbumDelete':(_0x1f9b2e,_0x3ac22f,_0x306512)=>axios[_0x2bbefd(0x22e)](Sh4n+(_0x2bbefd(0x20c)+_0x2bbefd(0x23a)+'l=')+encodeURIComponent(_0x1f9b2e)+_0x2bbefd(0x21a)+encodeURIComponent(_0x3ac22f)+_0x2bbefd(0x1f3)+encodeURIComponent(_0x306512))[_0x2bbefd(0x256)](_0x3c61e4=>_0x3c61e4[_0x2bbefd(0x230)]),'ShAnalbumList':_0x46301a=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x20c)+_0x2bbefd(0x204)+_0x2bbefd(0x246))+encodeURIComponent(_0x46301a))[_0x2bbefd(0x256)](_0x2c3e9b=>_0x2c3e9b[_0x2bbefd(0x230)]),'ShAnImgur':(_0x464a22,_0x33edee)=>axios[_0x2bbefd(0x221)](Sh4n+(_0x2bbefd(0x205)+_0x2bbefd(0x25a))+encodeURIComponent(_0x464a22)+_0x2bbefd(0x21a)+encodeURIComponent(_0x33edee))[_0x2bbefd(0x256)](_0x8ecad6=>_0x8ecad6[_0x2bbefd(0x230)]),'ShAntikSearch':(_0x265d8b,_0x11a8db)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x203)+_0x2bbefd(0x214)+'=')+encodeURIComponent(_0x265d8b)+_0x2bbefd(0x21a)+encodeURIComponent(_0x11a8db))[_0x2bbefd(0x256)](_0x3a2ab8=>_0x3a2ab8[_0x2bbefd(0x230)]),'ShAnFont':(_0x52b477,_0xf40bbf,_0x4a20b5)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x209)+_0x2bbefd(0x20f))+encodeURIComponent(_0x52b477)+_0x2bbefd(0x235)+encodeURIComponent(_0xf40bbf)+_0x2bbefd(0x21a)+encodeURIComponent(_0x4a20b5))[_0x2bbefd(0x256)](_0x42785b=>_0x42785b[_0x2bbefd(0x230)]),'ShAnfontList':_0x5acbfb=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x237)+_0x2bbefd(0x201)+'=')+encodeURIComponent(_0x5acbfb))[_0x2bbefd(0x256)](_0x7c6a8a=>_0x7c6a8a[_0x2bbefd(0x230)]),'ShAnWish':(_0xb65511,_0x4b24fa,_0x2a20b2)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x216)+_0x2bbefd(0x1f4))+encodeURIComponent(_0xb65511)+_0x2bbefd(0x235)+encodeURIComponent(_0x4b24fa)+_0x2bbefd(0x21a)+encodeURIComponent(_0x2a20b2))[_0x2bbefd(0x256)](_0xede63e=>_0xede63e[_0x2bbefd(0x230)]),'ShAncaptionAdd':(_0x3efe4d,_0x4d797a,_0x514907,_0x464c6f,_0x741179)=>axios[_0x2bbefd(0x221)](Sh4n+(_0x2bbefd(0x212)+_0x2bbefd(0x1fe)+_0x2bbefd(0x23c))+encodeURIComponent(_0x3efe4d)+_0x2bbefd(0x1fd)+encodeURIComponent(_0x4d797a)+_0x2bbefd(0x224)+encodeURIComponent(captain)+_0x2bbefd(0x1fb)+encodeURIComponent(_0x464c6f)+_0x2bbefd(0x21a)+encodeURIComponent(_0x741179))[_0x2bbefd(0x256)](_0x467021=>_0x467021[_0x2bbefd(0x230)]),'ShAncaptionList':(_0x3cbbcc,_0x153574)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x212)+_0x2bbefd(0x1f5)+_0x2bbefd(0x217))+encodeURIComponent(_0x3cbbcc)+_0x2bbefd(0x21a)+encodeURIComponent(_0x153574))[_0x2bbefd(0x256)](_0x321519=>_0x321519[_0x2bbefd(0x230)]),'ShAnCaption':(_0x478798,_0xd6b6ad,_0x10589c,_0x467700,_0xd688d7)=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x212)+_0x2bbefd(0x25f)+'y=')+encodeURIComponent(_0x478798)+_0x2bbefd(0x1fd)+encodeURIComponent(_0xd6b6ad)+_0x2bbefd(0x244)+encodeURIComponent(_0x10589c)+_0x2bbefd(0x21a)+encodeURIComponent(_0x467700)+_0x2bbefd(0x1f3)+encodeURIComponent(_0xd688d7))[_0x2bbefd(0x256)](_0x223b2a=>_0x223b2a[_0x2bbefd(0x230)]),'ShAnmemeAdd':(_0x1c9192,_0x5135e5,_0x4ddd15)=>axios[_0x2bbefd(0x221)](Sh4n+(_0x2bbefd(0x239)+_0x2bbefd(0x24d)+'l=')+encodeURIComponent(_0x1c9192)+_0x2bbefd(0x244)+encodeURIComponent(_0x5135e5)+_0x2bbefd(0x21a)+encodeURIComponent(_0x4ddd15))[_0x2bbefd(0x256)](_0x415b64=>_0x415b64[_0x2bbefd(0x230)]),'ShAnMeme':_0x44ae6c=>axios[_0x2bbefd(0x253)](Sh4n+(_0x2bbefd(0x259)+_0x2bbefd(0x21e))+encodeURIComponent(_0x44ae6c))[_0x2bbefd(0x256)](_0xce09c4=>_0xce09c4[_0x2bbefd(0x230)])};function _0x1b2f(){const _0x1db88c=['-delete?ur','ShAn-twitD','egory=','ShAn-hedit','&videoUrl=','ShAn-honey','417627hZxWJy','ShAn-blist','&ans=','ShAn-hteac','&senderID=','2TLqIKz','or=','te?text=','jihPL','ShAn-bmsg?','DL2?url=','uYtiP','pp/','add?memeUr','?text=','&index=','ShAn-hdele','axios','L?url=','get','ext=','245027DkQGFR','then','-videos?ca','8362783wYoZPi','ShAn-meme?','?url=','ShAn-bdele','ShAn-ytmp3','10794063MrStiQ','?author=','on?categor','ShAn-brans','7.vercel.a','&key=','name=','on-list?la','tegory=','179905ezZQRy','ShAn-fbDL?','ShAn-ytsea','gIGUA','&senderID','ShAn-tikDL','&language=','on-add?cat','tDL?url=','etnbe','ist?author','ShAn-alldl','ShAn-tikse','-list?auth','ShAn-imgur','rch?query=','?ask=','ShAn-ytDL?','ShAn-font?','?font=','HcTZr','ShAn-album','DL?url=','XGpAk','text=','ShAn-bedit','DL3?url=','ShAn-capti','ask=','arch?query','h?ask=','ShAn-wish?','nguage=','pvPlF','20nWqQkF','&author=','ShAn-insta','ShAn-pinDL','ShAn-bby?t','author=','-ans-api-0','&uid=','post','2?url=','exports','&captain=','19049976LffLRp','-add?categ','856107eQgtfG','ShAn-likee','234dNgmDn','20RKuNUM','https://sh','ShAn-hlist','32ejyqaF','delete','ShAn-bteac','data','ory=','ShAn-capcu','&newAsk=','ShAn-threa','&font=','url=','ShAn-fontL','ShAn-hmsg?','ShAn-meme-'];_0x1b2f=function(){return _0x1db88c;};return _0x1b2f();}
+const axios = require('axios');
+const readline = require('readline');
+const os = require('os');
+
+function getDefaultAuthor() {
+  try {
+    const username = os.userInfo().username;
+    if (username && username !== 'root' && username !== 'admin') {
+      return username;
+    }
+  } catch (e) {
+  }
+
+  const envUser = process.env.USER || process.env.USERNAME || process.env.LOGNAME;
+  if (envUser && envUser !== 'root' && envUser !== 'admin') {
+    return envUser;
+  }
+
+  return '♡︎ 𝗦𝗵𝗔𝗻 ♡︎';
+}
+
+function getPlatform() {
+  const platform = os.platform();
+  const platformMap = {
+    'win32': 'Windows',
+    'linux': 'Linux',
+    'darwin': 'macOS',
+    'android': 'Termux/Android',
+    'chrome': 'Chrome OS'
+  };
+  return platformMap[platform] || platform;
+}
+
+function getTerminalType() {
+  const term = process.env.TERM || process.env.TERM_PROGRAM || '';
+  if (term.includes('xterm') || term.includes('linux')) return 'Terminal';
+  if (term.includes('tmux')) return 'Tmux';
+  if (term.includes('screen')) return 'Screen';
+  if (process.env.TERM_PROGRAM === 'iTerm.app') return 'iTerm2';
+  if (process.env.TERM_PROGRAM === 'Apple_Terminal') return 'macOS Terminal';
+  if (process.env.TERM_PROGRAM === 'Hyper') return 'Hyper';
+  if (process.env.TERM_PROGRAM === 'Alacritty') return 'Alacritty';
+  if (process.env.TERM_PROGRAM === 'vscode') return 'VS Code Terminal';
+  if (process.env.TERM_PROGRAM === 'WSL') return 'WSL';
+  if (process.env.TERM_PROGRAM === 'Cygwin') return 'Cygwin';
+  if (process.env.TERM_PROGRAM === 'Mintty') return 'Mintty';
+  if (process.env.TERM_PROGRAM === 'Konsole') return 'Konsole';
+  if (process.env.TERM_PROGRAM === 'GNOME-Terminal') return 'GNOME Terminal';
+  return 'Unknown Terminal';
+}
+
+function getShell() {
+  const shell = process.env.SHELL || process.env.COMSPEC || '';
+  if (shell.includes('bash')) return 'Bash';
+  if (shell.includes('zsh')) return 'Zsh';
+  if (shell.includes('fish')) return 'Fish';
+  if (shell.includes('cmd')) return 'CMD';
+  if (shell.includes('powershell') || shell.includes('pwsh')) return 'PowerShell';
+  if (shell.includes('sh')) return 'Sh';
+  if (shell.includes('dash')) return 'Dash';
+  if (shell.includes('ksh')) return 'Ksh';
+  return 'Unknown Shell';
+}
+
+function showLogo() {
+  const platform = getPlatform();
+  const terminal = getTerminalType();
+  const shell = getShell();
+  const author = getDefaultAuthor();
+  
+  console.clear();
+  console.log(`
+\x1b[36m
+   ███████╗██╗  ██╗ █████╗ ███╗   ██╗
+   ██╔════╝██║  ██║██╔══██╗████╗  ██║
+   ███████╗███████║███████║██╔██╗ ██║
+   ╚════██║██╔══██║██╔══██║██║╚██╗██║
+   ███████║██║  ██║██║  ██║██║ ╚████║
+   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+   
+   ███████╗███████╗██████╗ ██╗   ██╗███████╗██████╗ 
+   ██╔════╝██╔════╝██╔══██╗██║   ██║██╔════╝██╔══██╗
+   ███████╗█████╗  ██████╔╝██║   ██║█████╗  ██████╔╝
+   ╚════██║██╔══╝  ██╔══██╗╚██╗ ██╔╝██╔══╝  ██╔══██╗
+   ███████║███████╗██║  ██║ ╚████╔╝ ███████╗██║  ██║
+   ╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
+\x1b[0m
+\x1b[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x1b[0m
+\x1b[36m              SHAN SERVER - v1.0.0\x1b[0m
+\x1b[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x1b[0m
+\x1b[90m  Platform: ${platform.padEnd(20)} Terminal: ${terminal}\x1b[0m
+\x1b[90m  Shell: ${shell.padEnd(20)} API: sh-ans-api-07.vercel.app\x1b[0m
+\x1b[90m  Default Author: ${author}\x1b[0m
+\x1b[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x1b[0m
+  `);
+}
+
+const Sh4n = 'https://sh-ans-api-07.vercel.app/';
+
+const api = {
+  ShAnAlldl: (url, author) => axios.get(`${Sh4n}ShAn-alldl?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnAlldl2: (url, author) => axios.get(`${Sh4n}ShAn-alldl2?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnFbdl: (url, author) => axios.get(`${Sh4n}ShAn-fbDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnYtdl: (url, author) => axios.get(`${Sh4n}ShAn-ytDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnYtmp3: (url, author) => axios.get(`${Sh4n}ShAn-ytmp3?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnThreadl: (url, author) => axios.get(`${Sh4n}ShAn-threaDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnTwitdl: (url, author) => axios.get(`${Sh4n}ShAn-twitDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnTikdl: (url, author) => axios.get(`${Sh4n}ShAn-tikDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnInstadl: (url, author) => axios.get(`${Sh4n}ShAn-instaDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnInstadl2: (url, author) => axios.get(`${Sh4n}ShAn-instaDL2?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnInstadl3: (url, author) => axios.get(`${Sh4n}ShAn-instaDL3?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnPindl: (url, author) => axios.get(`${Sh4n}ShAn-pinDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnCapcutdl: (url, author) => axios.get(`${Sh4n}ShAn-capcutDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnLikeedl: (url, author) => axios.get(`${Sh4n}ShAn-likeeDL?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnytSearch: (query, author) => axios.get(`${Sh4n}ShAn-ytsearch?query=${encodeURIComponent(query)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnBaby: (text, uid, font, author) => axios.get(`${Sh4n}ShAn-bby?text=${encodeURIComponent(text)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnBteach: (ask, ans, uid, font, author) => axios.get(`${Sh4n}ShAn-bteach?ask=${encodeURIComponent(ask)}&ans=${encodeURIComponent(ans)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnBrans: (author) => axios.get(`${Sh4n}ShAn-brans?author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnBmsg: (ask, uid, font, author) => axios.get(`${Sh4n}ShAn-bmsg?ask=${encodeURIComponent(ask)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnBlist: (font, author) => axios.get(`${Sh4n}ShAn-blist?font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnBedit: (ask, newAsk, uid, font, author, index) => {
+    let url = `${Sh4n}ShAn-bedit?ask=${encodeURIComponent(ask)}&newAsk=${encodeURIComponent(newAsk)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`;
+    if (index) url += `&index=${index}`;
+    return axios.get(url).then(res => res.data);
+  },
+  ShAnBdelete: (text, uid, font, author, index) => {
+    let url = `${Sh4n}ShAn-bdelete?text=${encodeURIComponent(text)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`;
+    if (index) url += `&index=${index}`;
+    return axios.delete(url).then(res => res.data);
+  },
+  ShAnHoney: (text, uid, font, author) => axios.get(`${Sh4n}ShAn-honey?text=${encodeURIComponent(text)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnHteach: (ask, ans, uid, font, author) => axios.get(`${Sh4n}ShAn-hteach?ask=${encodeURIComponent(ask)}&ans=${encodeURIComponent(ans)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnHmsg: (ask, uid, font, author) => axios.get(`${Sh4n}ShAn-hmsg?ask=${encodeURIComponent(ask)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnHlist: (font, author) => axios.get(`${Sh4n}ShAn-hlist?font=${font}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnHedit: (ask, newAsk, uid, font, author, index) => {
+    let url = `${Sh4n}ShAn-hedit?ask=${encodeURIComponent(ask)}&newAsk=${encodeURIComponent(newAsk)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`;
+    if (index) url += `&index=${index}`;
+    return axios.get(url).then(res => res.data);
+  },
+  ShAnHdelete: (text, uid, font, author, index) => {
+    let url = `${Sh4n}ShAn-hdelete?text=${encodeURIComponent(text)}&uid=${uid}&font=${font}&author=${encodeURIComponent(author)}`;
+    if (index) url += `&index=${index}`;
+    return axios.delete(url).then(res => res.data);
+  },
+  ShAnalbumVideos: (category, senderID, author, key) => axios.get(`${Sh4n}ShAn-album-videos?category=${category}&senderID=${senderID}&author=${encodeURIComponent(author)}&key=${encodeURIComponent(key)}`).then(res => res.data),
+  ShAnalbumAdd: (category, videoUrl, senderID, author) => axios.post(`${Sh4n}ShAn-album-add?category=${category}&videoUrl=${encodeURIComponent(videoUrl)}&senderID=${senderID}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnalbumDelete: (url, author, key) => axios.delete(`${Sh4n}ShAn-album-delete?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}&key=${encodeURIComponent(key)}`).then(res => res.data),
+  ShAnalbumList: (author) => axios.get(`${Sh4n}ShAn-album-list?author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnImgur: (videoUrl, author) => axios.post(`${Sh4n}ShAn-imgur?url=${encodeURIComponent(videoUrl)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAntikSearch: (query, author) => axios.get(`${Sh4n}ShAn-tiksearch?query=${encodeURIComponent(query)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnFont: (text, font, author) => axios.get(`${Sh4n}ShAn-font?text=${encodeURIComponent(text)}&font=${encodeURIComponent(font)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnfontList: (author) => axios.get(`${Sh4n}ShAn-fontList?author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnWish: (name, font, author) => axios.get(`${Sh4n}ShAn-wish?name=${encodeURIComponent(name)}&font=${encodeURIComponent(font)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAncaptionAdd: (category, language, caption, senderID, author) => axios.post(`${Sh4n}ShAn-caption-add?category=${encodeURIComponent(category)}&language=${encodeURIComponent(language)}&captain=${encodeURIComponent(caption)}&senderID=${encodeURIComponent(senderID)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAncaptionList: (language, author) => axios.get(`${Sh4n}ShAn-caption-list?language=${encodeURIComponent(language)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnCaption: (category, language, senderID, author, key) => axios.get(`${Sh4n}ShAn-caption?category=${encodeURIComponent(category)}&language=${encodeURIComponent(language)}&senderID=${encodeURIComponent(senderID)}&author=${encodeURIComponent(author)}&key=${encodeURIComponent(key)}`).then(res => res.data),
+  ShAnmemeAdd: (memeUrl, senderID, author) => axios.post(`${Sh4n}ShAn-meme-add?memeUrl=${encodeURIComponent(memeUrl)}&senderID=${encodeURIComponent(senderID)}&author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnMeme: (author) => axios.get(`${Sh4n}ShAn-meme?author=${encodeURIComponent(author)}`).then(res => res.data),
+  ShAnImgbb: (url, author) => axios.get(`${Sh4n}ShAn-imgbb?url=${encodeURIComponent(url)}&author=${encodeURIComponent(author)}`).then(res => res.data)
+};
+
+function createInterface() {
+  return readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+  });
+}
+
+async function askQuestion(question, defaultValue = '') {
+  const rl = createInterface();
+  return new Promise((resolve) => {
+    const prompt = defaultValue ? `${question} \x1b[90m[${defaultValue}]\x1b[0m: ` : `${question}: `;
+    rl.question(prompt, (answer) => {
+      rl.close();
+      resolve(answer.trim() || defaultValue);
+    });
+  });
+}
+
+async function selectOption(question, options) {
+  const rl = createInterface();
+  console.log(`\n\x1b[36m${question}\x1b[0m`);
+  options.forEach((opt, idx) => {
+    console.log(`  ${idx + 1}. ${opt}`);
+  });
+  
+  return new Promise((resolve) => {
+    rl.question('\x1b[33mEnter number (or name): \x1b[0m', (answer) => {
+      rl.close();
+      const num = parseInt(answer);
+      if (!isNaN(num) && num >= 1 && num <= options.length) {
+        resolve(options[num - 1]);
+      } else if (options.includes(answer)) {
+        resolve(answer);
+      } else {
+        console.log('\x1b[31mInvalid selection, using default: ' + options[0] + '\x1b[0m');
+        resolve(options[0]);
+      }
+    });
+  });
+}
+
+async function showMainMenu() {
+  showLogo();
+  
+  console.log(`
+\x1b[36m┌─────────────────────────────────────────────────────────┐\x1b[0m
+\x1b[36m│                    📋 MAIN MENU                         │\x1b[0m
+\x1b[36m├─────────────────────────────────────────────────────────┤\x1b[0m
+\x1b[32m│  1. 📥 Download Videos                                  │\x1b[0m
+\x1b[32m│  2. 🔍 Search Content                                   │\x1b[0m
+\x1b[32m│  3. 🤖 AI Chatbots (Baby/Honey)                         │\x1b[0m
+\x1b[32m│  4. 💾 Album Management                                 │\x1b[0m
+\x1b[32m│  5. 🎨 Font & Text Utilities                            │\x1b[0m
+\x1b[32m│  6. 📝 Caption Manager                                  │\x1b[0m
+\x1b[32m│  7. 🖼️  Meme Generator                                  │\x1b[0m
+\x1b[32m│  8. ☁️  Cloud Upload (Imgur/ImgBB)                      │\x1b[0m
+\x1b[31m│  0. ❌ Exit                                              │\x1b[0m
+\x1b[36m└─────────────────────────────────────────────────────────┘\x1b[0m
+  `);
+  
+  const choice = await askQuestion('\x1b[36mSelect an option\x1b[0m', '0');
+  return choice;
+}
+
+async function downloadMenu() {
+  console.clear();
+  showLogo();
+  
+  const platform = await selectOption('📥 Select Platform:', [
+    'YouTube', 'TikTok', 'Instagram', 'Facebook', 'Twitter/X', 
+    'Threads', 'Pinterest', 'CapCut', 'Likee', 'All-in-One'
+  ]);
+  
+  let command = '';
+  switch(platform) {
+    case 'YouTube': command = 'ytdl'; break;
+    case 'TikTok': command = 'tikdl'; break;
+    case 'Instagram': command = 'instadl'; break;
+    case 'Facebook': command = 'fbdl'; break;
+    case 'Twitter/X': command = 'twitdl'; break;
+    case 'Threads': command = 'threadl'; break;
+    case 'Pinterest': command = 'pindl'; break;
+    case 'CapCut': command = 'capcutdl'; break;
+    case 'Likee': command = 'likeedl'; break;
+    case 'All-in-One': command = 'alldl'; break;
+  }
+  
+  const url = await askQuestion('\x1b[36mEnter video URL\x1b[0m');
+  if (!url) {
+    console.log('\x1b[31m❌ URL is required!\x1b[0m');
+    await askQuestion('\nPress Enter to continue...');
+    return;
+  }
+  
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  console.log('\n\x1b[33m⏳ Processing your request...\x1b[0m\n');
+  
+  try {
+    let result;
+    switch(command) {
+      case 'ytdl': result = await api.ShAnYtdl(url, author); break;
+      case 'tikdl': result = await api.ShAnTikdl(url, author); break;
+      case 'instadl': result = await api.ShAnInstadl(url, author); break;
+      case 'fbdl': result = await api.ShAnFbdl(url, author); break;
+      case 'twitdl': result = await api.ShAnTwitdl(url, author); break;
+      case 'threadl': result = await api.ShAnThreadl(url, author); break;
+      case 'pindl': result = await api.ShAnPindl(url, author); break;
+      case 'capcutdl': result = await api.ShAnCapcutdl(url, author); break;
+      case 'likeedl': result = await api.ShAnLikeedl(url, author); break;
+      default: result = await api.ShAnAlldl(url, author);
+    }
+    
+    console.log('\n\x1b[32m✅ SUCCESS!\x1b[0m\n');
+    console.log(JSON.stringify(result, null, 2));
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function searchMenu() {
+  console.clear();
+  showLogo();
+  
+  const platform = await selectOption('🔍 Search On:', ['YouTube', 'TikTok']);
+  const query = await askQuestion('\x1b[36mEnter search query\x1b[0m');
+  
+  if (!query) {
+    console.log('\x1b[31m❌ Query is required!\x1b[0m');
+    await askQuestion('\nPress Enter to continue...');
+    return;
+  }
+  
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  console.log('\n\x1b[33m⏳ Searching...\x1b[0m\n');
+  
+  try {
+    let result;
+    if (platform === 'YouTube') {
+      result = await api.ShAnytSearch(query, author);
+    } else {
+      result = await api.ShAntikSearch(query, author);
+    }
+    
+    console.log('\x1b[32m✅ Search Results:\x1b[0m\n');
+    console.log(JSON.stringify(result, null, 2));
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function aiChatbotMenu() {
+  console.clear();
+  showLogo();
+  
+  const bot = await selectOption('🤖 Select AI Chatbot:', ['Baby', 'Honey']);
+  const action = await selectOption('Select Action:', ['Chat', 'Teach', 'Random Response', 'List Data', 'Edit', 'Delete']);
+  
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  const uid = await askQuestion('\x1b[36mEnter User ID (your unique identifier)\x1b[0m', 'user123');
+  const font = await askQuestion('\x1b[36mEnter Font name (default: Arial)\x1b[0m', 'Arial');
+  
+  try {
+    let result;
+    
+    if (action === 'Chat') {
+      const text = await askQuestion('\x1b[36mEnter your message\x1b[0m');
+      if (bot === 'Baby') {
+        result = await api.ShAnBaby(text, uid, font, author);
+      } else {
+        result = await api.ShAnHoney(text, uid, font, author);
+      }
+    } 
+    else if (action === 'Teach') {
+      const ask = await askQuestion('\x1b[36mEnter the question/phrase\x1b[0m');
+      const ans = await askQuestion('\x1b[36mEnter the answer/response\x1b[0m');
+      if (bot === 'Baby') {
+        result = await api.ShAnBteach(ask, ans, uid, font, author);
+      } else {
+        result = await api.ShAnHteach(ask, ans, uid, font, author);
+      }
+    }
+    else if (action === 'Random Response') {
+      if (bot === 'Baby') {
+        result = await api.ShAnBrans(author);
+      } else {
+        console.log('\x1b[33m⚠️ Random response only available for Baby bot\x1b[0m');
+        await askQuestion('\nPress Enter to continue...');
+        return;
+      }
+    }
+    else if (action === 'List Data') {
+      if (bot === 'Baby') {
+        result = await api.ShAnBlist(font, author);
+      } else {
+        result = await api.ShAnHlist(font, author);
+      }
+    }
+    else if (action === 'Edit') {
+      const ask = await askQuestion('\x1b[36mEnter the question to edit\x1b[0m');
+      const newAsk = await askQuestion('\x1b[36mEnter the new question\x1b[0m');
+      const index = await askQuestion('\x1b[36mEnter index (optional)\x1b[0m');
+      if (bot === 'Baby') {
+        result = await api.ShAnBedit(ask, newAsk, uid, font, author, index);
+      } else {
+        result = await api.ShAnHedit(ask, newAsk, uid, font, author, index);
+      }
+    }
+    else if (action === 'Delete') {
+      const text = await askQuestion('\x1b[36mEnter text to delete\x1b[0m');
+      const index = await askQuestion('\x1b[36mEnter index (optional)\x1b[0m');
+      if (bot === 'Baby') {
+        result = await api.ShAnBdelete(text, uid, font, author, index);
+      } else {
+        result = await api.ShAnHdelete(text, uid, font, author, index);
+      }
+    }
+    
+    console.log('\x1b[32m✅ Success!\x1b[0m\n');
+    console.log(JSON.stringify(result, null, 2));
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function albumMenu() {
+  console.clear();
+  showLogo();
+  
+  const action = await selectOption('💾 Album Actions:', ['List Albums', 'Add Video', 'View Videos', 'Delete Video']);
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  try {
+    let result;
+    
+    if (action === 'List Albums') {
+      result = await api.ShAnalbumList(author);
+    } 
+    else if (action === 'Add Video') {
+      const category = await askQuestion('\x1b[36mEnter category name\x1b[0m');
+      const videoUrl = await askQuestion('\x1b[36mEnter video URL\x1b[0m');
+      const senderID = await askQuestion('\x1b[36mEnter sender ID\x1b[0m');
+      result = await api.ShAnalbumAdd(category, videoUrl, senderID, author);
+    }
+    else if (action === 'View Videos') {
+      const category = await askQuestion('\x1b[36mEnter category name\x1b[0m');
+      const senderID = await askQuestion('\x1b[36mEnter sender ID\x1b[0m');
+      const key = await askQuestion('\x1b[36mEnter access key (optional)\x1b[0m');
+      result = await api.ShAnalbumVideos(category, senderID, author, key);
+    }
+    else if (action === 'Delete Video') {
+      const url = await askQuestion('\x1b[36mEnter video URL to delete\x1b[0m');
+      const key = await askQuestion('\x1b[36mEnter access key\x1b[0m');
+      result = await api.ShAnalbumDelete(url, author, key);
+    }
+    
+    console.log('\x1b[32m✅ Success!\x1b[0m\n');
+    console.log(JSON.stringify(result, null, 2));
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function fontMenu() {
+  console.clear();
+  showLogo();
+  
+  const action = await selectOption('🎨 Font Utilities:', ['Apply Font to Text', 'List Available Fonts', 'Generate Wish Card']);
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  try {
+    if (action === 'List Available Fonts') {
+      const result = await api.ShAnfontList(author);
+      console.log('\n\x1b[32m✅ Available Fonts:\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    } 
+    else if (action === 'Apply Font to Text') {
+      const text = await askQuestion('\x1b[36mEnter your text\x1b[0m');
+      const font = await askQuestion('\x1b[36mEnter font name\x1b[0m', 'Arial');
+      const result = await api.ShAnFont(text, font, author);
+      console.log('\x1b[32m✅ Formatted Text:\x1b[0m\n');
+      console.log(result);
+    }
+    else if (action === 'Generate Wish Card') {
+      const name = await askQuestion('\x1b[36mEnter name for wish card\x1b[0m');
+      const font = await askQuestion('\x1b[36mEnter font name\x1b[0m', 'Arial');
+      const result = await api.ShAnWish(name, font, author);
+      console.log('\x1b[32m✅ Wish Card Generated:\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    }
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function captionMenu() {
+  console.clear();
+  showLogo();
+  
+  const action = await selectOption('📝 Caption Manager:', ['Add Caption', 'Get Caption', 'List Captions']);
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  try {
+    if (action === 'Add Caption') {
+      const category = await askQuestion('\x1b[36mEnter category\x1b[0m');
+      const language = await askQuestion('\x1b[36mEnter language (e.g., en, es, hi)\x1b[0m');
+      const caption = await askQuestion('\x1b[36mEnter caption text\x1b[0m');
+      const senderID = await askQuestion('\x1b[36mEnter sender ID\x1b[0m');
+      const result = await api.ShAncaptionAdd(category, language, caption, senderID, author);
+      console.log('\x1b[32m✅ Caption Added!\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    }
+    else if (action === 'List Captions') {
+      const language = await askQuestion('\x1b[36mEnter language\x1b[0m', 'en');
+      const result = await api.ShAncaptionList(language, author);
+      console.log('\x1b[32m✅ Captions List:\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    }
+    else if (action === 'Get Caption') {
+      const category = await askQuestion('\x1b[36mEnter category\x1b[0m');
+      const language = await askQuestion('\x1b[36mEnter language\x1b[0m');
+      const senderID = await askQuestion('\x1b[36mEnter sender ID\x1b[0m');
+      const key = await askQuestion('\x1b[36mEnter access key (optional)\x1b[0m');
+      const result = await api.ShAnCaption(category, language, senderID, author, key);
+      console.log('\x1b[32m✅ Caption:\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    }
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function memeMenu() {
+  console.clear();
+  showLogo();
+  
+  const action = await selectOption('🖼️  Meme Generator:', ['Get Random Meme', 'Add New Meme']);
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  try {
+    if (action === 'Get Random Meme') {
+      const result = await api.ShAnMeme(author);
+      console.log('\x1b[32m✅ Random Meme:\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    } 
+    else if (action === 'Add New Meme') {
+      const memeUrl = await askQuestion('\x1b[36mEnter meme image/video URL\x1b[0m');
+      const senderID = await askQuestion('\x1b[36mEnter sender ID\x1b[0m');
+      const result = await api.ShAnmemeAdd(memeUrl, senderID, author);
+      console.log('\x1b[32m✅ Meme Added!\x1b[0m\n');
+      console.log(JSON.stringify(result, null, 2));
+    }
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function cloudMenu() {
+  console.clear();
+  showLogo();
+  
+  const platform = await selectOption('☁️  Upload To:', ['Imgur', 'ImgBB']);
+  const url = await askQuestion('\x1b[36mEnter media URL to upload\x1b[0m');
+  const defaultAuthor = getDefaultAuthor();
+  const author = await askQuestion('\x1b[36mEnter your name/author ID\x1b[0m', defaultAuthor);
+  
+  if (!url) {
+    console.log('\x1b[31m❌ URL is required!\x1b[0m');
+    await askQuestion('\nPress Enter to continue...');
+    return;
+  }
+  
+  console.log('\n\x1b[33m⏳ Uploading...\x1b[0m\n');
+  
+  try {
+    let result;
+    if (platform === 'Imgur') {
+      result = await api.ShAnImgur(url, author);
+    } else {
+      result = await api.ShAnImgbb(url, author);
+    }
+    
+    console.log('\x1b[32m✅ Upload Successful!\x1b[0m\n');
+    console.log(JSON.stringify(result, null, 2));
+  } catch (err) {
+    console.error('\x1b[31m❌ Error:\x1b[0m', err.response?.data || err.message);
+  }
+  
+  await askQuestion('\n\x1b[36mPress Enter to continue...\x1b[0m');
+}
+
+async function main() {
+  if (process.argv.includes('--help') || process.argv.includes('-h')) {
+    showLogo();
+    console.log(`
+\x1b[36mSHAN SERVER - Interactive Media Downloader & Utilities\x1b[0m
+
+\x1b[33mUSAGE:\x1b[0m
+  shan              Start interactive menu
+  shan --help       Show this help
+  shan --version    Show version
+
+\x1b[33mAUTO-AUTHOR (CLI ONLY):\x1b[0m
+  The CLI automatically detects your system username and uses it as the default author.
+  If no username is found, it defaults to: \x1b[36m♡︎ 𝗦𝗵𝗔𝗻 ♡︎\x1b[0m
+
+\x1b[33mCODE USAGE:\x1b[0m
+  When using in code, author is \x1b[31mREQUIRED\x1b[0m:
+  const shan = require('shan-server');
+  const result = await shan.ShAnYtdl(url, '♡︎ 𝗦𝗵𝗔𝗻 ♡︎');
+
+\x1b[33mDESCRIPTION:\x1b[0m
+  An interactive CLI tool for downloading videos from YouTube, TikTok, 
+  Instagram, Facebook, Twitter, and more. Also includes AI chatbots, 
+  album storage, captions, fonts, memes, and cloud uploads.
+
+\x1b[33mSUPPORTED PLATFORMS:\x1b[0m
+  ✓ Windows (CMD, PowerShell, Terminal)
+  ✓ Linux (bash, zsh, fish)
+  ✓ macOS (Terminal, iTerm2)
+  ✓ Termux (Android)
+  ✓ Chrome OS
+  ✓ Any OS with Node.js
+
+\x1b[33mREQUIREMENTS:\x1b[0m
+  Node.js >= 12.0.0
+
+\x1b[33mEXAMPLES:\x1b[0m
+  $ shan                    # Start interactive menu
+  $ npx shan-server         # Run without installing
+  $ node -e "require('shan-server').ShAnYtdl('url', '♡︎ 𝗦𝗵𝗔𝗻 ♡︎')"
+
+\x1b[36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x1b[0m
+    `);
+    process.exit(0);
+  }
+  
+  if (process.argv.includes('--version') || process.argv.includes('-v')) {
+    console.log('shan-server v1.0.4');
+    console.log(`Default Author: ${getDefaultAuthor()}`);
+    process.exit(0);
+  }
+  
+  while (true) {
+    const choice = await showMainMenu();
+    
+    switch(choice) {
+      case '1':
+        await downloadMenu();
+        break;
+      case '2':
+        await searchMenu();
+        break;
+      case '3':
+        await aiChatbotMenu();
+        break;
+      case '4':
+        await albumMenu();
+        break;
+      case '5':
+        await fontMenu();
+        break;
+      case '6':
+        await captionMenu();
+        break;
+      case '7':
+        await memeMenu();
+        break;
+      case '8':
+        await cloudMenu();
+        break;
+      case '0':
+        console.log('\n\x1b[36m👋 Thank you for using SHAN SERVER!\x1b[0m\n');
+        process.exit(0);
+      default:
+        console.log('\x1b[31m❌ Invalid option! Please try again.\x1b[0m');
+        await askQuestion('\nPress Enter to continue...');
+    }
+  }
+}
+
+process.on('SIGINT', () => {
+  console.log('\n\n\x1b[36m👋 Goodbye from SHAN SERVER!\x1b[0m\n');
+  process.exit(0);
+});
+
+if (require.main === module) {
+  main().catch(console.error);
+}
+
+module.exports = {
+  ShAnAlldl: api.ShAnAlldl,
+  ShAnAlldl2: api.ShAnAlldl2,
+  ShAnFbdl: api.ShAnFbdl,
+  ShAnYtdl: api.ShAnYtdl,
+  ShAnYtmp3: api.ShAnYtmp3,
+  ShAnThreadl: api.ShAnThreadl,
+  ShAnTwitdl: api.ShAnTwitdl,
+  ShAnTikdl: api.ShAnTikdl,
+  ShAnInstadl: api.ShAnInstadl,
+  ShAnInstadl2: api.ShAnInstadl2,
+  ShAnInstadl3: api.ShAnInstadl3,
+  ShAnPindl: api.ShAnPindl,
+  ShAnCapcutdl: api.ShAnCapcutdl,
+  ShAnLikeedl: api.ShAnLikeedl,
+  ShAnytSearch: api.ShAnytSearch,
+  ShAnBaby: api.ShAnBaby,
+  ShAnBteach: api.ShAnBteach,
+  ShAnBrans: api.ShAnBrans,
+  ShAnBmsg: api.ShAnBmsg,
+  ShAnBlist: api.ShAnBlist,
+  ShAnBedit: api.ShAnBedit,
+  ShAnBdelete: api.ShAnBdelete,
+  ShAnHoney: api.ShAnHoney,
+  ShAnHteach: api.ShAnHteach,
+  ShAnHmsg: api.ShAnHmsg,
+  ShAnHlist: api.ShAnHlist,
+  ShAnHedit: api.ShAnHedit,
+  ShAnHdelete: api.ShAnHdelete,
+  ShAnalbumVideos: api.ShAnalbumVideos,
+  ShAnalbumAdd: api.ShAnalbumAdd,
+  ShAnalbumDelete: api.ShAnalbumDelete,
+  ShAnalbumList: api.ShAnalbumList,
+  ShAnImgur: api.ShAnImgur,
+  ShAntikSearch: api.ShAntikSearch,
+  ShAnFont: api.ShAnFont,
+  ShAnfontList: api.ShAnfontList,
+  ShAnWish: api.ShAnWish,
+  ShAncaptionAdd: api.ShAncaptionAdd,
+  ShAncaptionList: api.ShAncaptionList,
+  ShAnCaption: api.ShAnCaption,
+  ShAnmemeAdd: api.ShAnmemeAdd,
+  ShAnMeme: api.ShAnMeme,
+  ShAnImgbb: api.ShAnImgbb,
+  getDefaultAuthor
+};
