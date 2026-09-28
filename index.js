@@ -34,7 +34,7 @@ function savePersistedConfig(partial) {
 const persisted = loadPersistedConfig();
 
 const CONFIG = {
-  apiBase: process.env.SHAN_API_BASE || persisted.apiBase || 'https://shans-api-07-p00o.onrender.com' || 'https://sh-ans-api-07.vercel.app/',
+  apiBase: process.env.SHAN_API_BASE || persisted.apiBase || 'https://shans-api-07-p00o.onrender.com/' || 'https://sh-ans-api-07.vercel.app/',
   downloadDir: process.env.SHAN_DOWNLOAD_DIR || persisted.downloadDir || path.join(process.cwd(), 'downloads'),
   requestTimeoutMs: parseInt(process.env.SHAN_TIMEOUT_MS || persisted.requestTimeoutMs || '60000', 10),
   batchConcurrency: parseInt(process.env.SHAN_CONCURRENCY || persisted.batchConcurrency || '3', 10),
